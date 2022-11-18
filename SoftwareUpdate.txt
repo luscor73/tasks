@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Add YouTube iframe loading=lazy (#8001)
