@@ -1,1 +1,1 @@
-add yolov10
+Fix OpenVINO links (#7930)
