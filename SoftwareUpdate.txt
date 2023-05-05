@@ -1,1 +1,1 @@
-ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
