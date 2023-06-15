@@ -1,1 +1,1 @@
-Add horizontal Mosaic3 augmentation (#6898)
+Update OpenVINO INT8 export (#7515)
