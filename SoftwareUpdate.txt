@@ -1,1 +1,1 @@
-fix yolo classify model loading error (#9196)
+Model typehints Docker fix (#8306)
