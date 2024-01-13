@@ -1,1 +1,1 @@
-ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
+Add https://youtu.be/3VryynorQeo to README and fix converter.py Docs (#7883)
