@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+ultralytics 8.1.20 add YOLOv8x-World support (#8539)
